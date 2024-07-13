@@ -91,8 +91,8 @@ This section details the setup of a basic developmentment environment.
 **Clone and Install Dependencies**
 
 ```console
-> git clone https://github.com/dscalzi/HeliosLauncher.git
-> cd HeliosLauncher
+> git clone https://github.com/Metaloul/JBShow-Launcher.git
+> cd JBShow-Launcher
 > npm install
 ```
 
